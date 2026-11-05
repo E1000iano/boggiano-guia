@@ -19,7 +19,7 @@ Hoy el sitio está publicado pero con **datos de ejemplo**. En este orden:
 
 **Contenido**
 - [ ] **Sucursales:** dirección, horarios y mapa de cada una. → [Sucursales](guia/06-sucursales.md)
-- [ ] **Catálogo real**, cargado desde Excel, y **fotos** de los productos. Borrá u ocultá los de ejemplo que no vendas. → [Importar](guia/04-importar-exportar.md) · [Productos](guia/03-productos.md)
+- [ ] **Catálogo real**, cargado desde Excel, y **fotos** de los productos (se pueden subir todas juntas con *Fotos en lote*). Borrá u ocultá los de ejemplo que no vendas. → [Importar](guia/04-importar-exportar.md) · [Fotos en lote](guia/03-productos.md#subir-muchas-fotos-juntas-fotos-en-lote)
 - [ ] **Marcas reales** con su logo. "Marca 2" a "Marca 6" son de ejemplo. → [Marcas](guia/07-marcas.md)
 - [ ] **Búsquedas laborales:** las dos que hay son de ejemplo. → [Empleos](guia/08-empleos-y-postulaciones.md)
 - [ ] **Historia en Nosotros**, más las fotos de portada y de Nosotros. → [Textos e imágenes](guia/10-textos-e-imagenes.md)
@@ -37,6 +37,7 @@ Hoy el sitio está publicado pero con **datos de ejemplo**. En este orden:
 | WhatsApp, teléfono, mails, redes | Datos del negocio | [02](guia/02-datos-del-negocio.md) |
 | Un producto, su foto o si es destacado | Productos | [03](guia/03-productos.md) |
 | Muchos productos a la vez | Importar / Exportar | [04](guia/04-importar-exportar.md) |
+| Muchas fotos a la vez | Productos → Fotos en lote | [03](guia/03-productos.md#subir-muchas-fotos-juntas-fotos-en-lote) |
 | Las categorías o el menú "Productos" | Categorías | [05](guia/05-categorias.md) |
 | Direcciones, horarios, mapas | Sucursales | [06](guia/06-sucursales.md) |
 | Los logos de las marcas | Marcas | [07](guia/07-marcas.md) |

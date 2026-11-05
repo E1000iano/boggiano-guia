@@ -49,9 +49,29 @@ Tocá **+ Nuevo producto** o **Editar**.
 |---|---|
 | ![Destacados](../img/sitio-destacados.jpg) | ![Categorías](../img/sitio-categorias.jpg) |
 
+## Subir muchas fotos juntas (Fotos en lote)
+
+**En el panel:** **Productos → Fotos en lote**.
+
+1. **Nombrá cada foto como el producto.** `jamon-crudo.jpg` va a "Jamón crudo", y `Salame Milán.png` va a "Salame Milán". No importan las mayúsculas, los acentos ni si usás espacios o guiones.
+2. **Si hay dos productos con el mismo nombre** (por ejemplo, dos quesos azules de marcas distintas), agregá la marca: `queso-azul-la-paulina.jpg`.
+3. **Elegí todas las fotos juntas** y tocá **Subir fotos**. Se suben de a una y la tabla de abajo muestra qué pasó con cada una.
+
+A la derecha está la lista de **productos sin foto, con el nombre de archivo que tiene que tener cada foto**.
+
+![Fotos en lote](../img/fotos-lote.jpg)
+
+| Resultado | Qué significa |
+|---|---|
+| **Cargada** | Se asignó al producto |
+| **Ya tenía** | El producto ya tenía foto y se dejó la anterior. Para reemplazarla, tildá "Reemplazar la foto de los productos que ya tienen una" |
+| **Sin coincidencia** | Ningún producto se llama como el archivo. Revisá el nombre |
+| **Varios posibles** | Hay más de un producto con ese nombre. Agregale la marca al nombre del archivo |
+| **Error** | El archivo no es una imagen válida (JPG, PNG o WebP) |
+
 ## Sobre las fotos
 
 - **Sin foto,** la tarjeta muestra un dibujo de la categoría (un queso, un salame…). El sitio funciona igual, pero con fotos se ve mucho mejor.
 - **Para que queden parejas:** fotos **cuadradas o casi**, con el producto centrado y fondo claro.
-- **Se pueden sacar con el celular:** el panel las achica. No hace falta editarlas antes.
+- **Se pueden sacar con el celular:** el panel las achica y guarda además una versión chica para las tarjetas, así el catálogo carga rápido aunque tenga muchas fotos. No hace falta editarlas antes.
 - **Para encontrar las que faltan:** en Inicio del panel hay un aviso con cuántos productos no tienen foto, y el filtro **Sin foto** de la lista te muestra cuáles son.
