@@ -67,6 +67,7 @@ Hoy el sitio está publicado pero con **datos de ejemplo**. En este orden:
 | Ver cuántas consultas llegan por WhatsApp | Consultas WhatsApp | [14](guia/14-consultas-por-whatsapp.md) |
 | Quién puede entrar al panel | Usuarios | [11](guia/11-usuarios.md) |
 | Leer los mails de las casillas | Webmail o Gmail | [12](guia/12-correo.md) |
+| Ver quién cambió algo, o deshacer un cambio | Historial | [16](guia/16-historial.md) |
 | Respaldos y qué no tocar | — | [13](guia/13-mantenimiento.md) |
 | Aparecer en Google y en Google Maps | Search Console y Perfil de Empresa | [15](guia/15-google-y-monitoreo.md) |
 
@@ -87,6 +88,7 @@ Hoy el sitio está publicado pero con **datos de ejemplo**. En este orden:
 13. [Mantenimiento y respaldos](guia/13-mantenimiento.md)
 14. [Consultas por WhatsApp](guia/14-consultas-por-whatsapp.md)
 15. [Google y aviso si el sitio se cae](guia/15-google-y-monitoreo.md)
+16. [Historial y Deshacer](guia/16-historial.md)
 
 ## Cómo funciona el sitio, en dos líneas
 

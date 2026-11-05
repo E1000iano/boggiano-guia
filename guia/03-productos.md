@@ -26,7 +26,7 @@ Tildá la casilla de cada producto (o **"Elegir los N de…"** para tomar todos 
 | **Mover** | Los pasa a la categoría, subcategoría o tipo que elijas en la lista de al lado |
 | **Ocultar / Mostrar** | Los saca del sitio o los vuelve a mostrar |
 | **★ Destacar / Quitar ★** | Los marca o desmarca como destacados |
-| **Borrar** | Los borra con sus fotos. Pide confirmación y **no se puede deshacer** |
+| **Borrar** | Los borra con sus fotos. Pide confirmación. Si te equivocaste, se recuperan con [Historial → Deshacer](16-historial.md) |
 | **Ninguno** | Destilda todo |
 
 ## Cargar o editar un producto
@@ -46,7 +46,7 @@ Tocá **+ Nuevo producto** o **Editar**.
 | **Orden** | Posición dentro del catálogo (menor primero) |
 
 - **Guardar y cargar otro:** solo en productos nuevos. Guarda y deja el formulario vacío, **con la misma ubicación**, para seguir cargando productos del mismo tipo.
-- **Borrar producto:** abajo de todo, en rojo. **No se puede deshacer.** Si solo querés que no se vea, destildá "Visible".
+- **Borrar producto:** abajo de todo, en rojo. Si te equivocaste, se recupera con su foto desde [Historial → Deshacer](16-historial.md). Si solo querés que no se vea, destildá "Visible".
 
 ## Qué cambia en el sitio
 

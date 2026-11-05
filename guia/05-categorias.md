@@ -56,4 +56,4 @@ En el catálogo, al elegir una subcategoría con tipos aparece una **tercera fil
   - **Pasarlos a otra categoría:** quedan sin subcategoría, porque las subcategorías eran de la que se borra.
   - **Borrar también sus productos** y sus fotos.
 
-  Borrar no se puede deshacer. Si dudás, ocultala.
+  Si te equivocaste, se recupera desde [Historial → Deshacer](16-historial.md). Si dudás, ocultala.

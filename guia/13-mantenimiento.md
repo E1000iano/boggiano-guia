@@ -16,7 +16,7 @@ El sitio vive en el hosting en dos carpetas. Desde el panel del sitio no hace fa
 | Carpeta | Qué es | Regla |
 |---|---|---|
 | `public_html/` | El sitio | No borres ni muevas archivos. **`public_html/uploads/`** tiene las fotos que subiste desde el panel |
-| `privado/` | La configuración con las contraseñas, y los CV | **Nunca la muevas adentro de `public_html`** ni la compartas. Tiene la contraseña de la base de datos y la del correo |
+| `privado/` | La configuración con las contraseñas, los CV y la papelera de fotos borradas (se vacía sola al año) | **Nunca la muevas adentro de `public_html`** ni la compartas. Tiene la contraseña de la base de datos y la del correo |
 
 - **No instales** WordPress, el "Creador con IA" ni ninguna plantilla de Hostinger sobre `boggianofiambrerias.com.ar`: pisarían el sitio.
 - **Versión de PHP:** el sitio usa **PHP 8.3**. Si Hostinger avisa que hay que actualizarla, conviene probar antes.
