@@ -18,6 +18,7 @@
 | **Email que recibe los mensajes** | Normalmente `ventas@` | A esta casilla llegan los avisos de **Contacto** y **Proveedores** |
 | **Email que recibe los CV** | Normalmente `empleos@` | A esta casilla llegan las **postulaciones**, con el CV adjunto |
 | **Instagram / Facebook** | La dirección completa, empezando con `https://` | Íconos en el pie de página. Si quedan vacíos, el ícono no aparece |
+| **Verificación de Google Search Console** | La etiqueta que da Google (o solo el código). Opcional | Le prueba a Google que el sitio es tuyo. Ver [Google y monitoreo](15-google-y-monitoreo.md) |
 | **Barra "Versión de prueba"** | Casilla | Prendida: aparece una franja amarilla arriba de todo el sitio que avisa que los datos son de ejemplo. **Apagala cuando cargues los datos reales** |
 
 Tocá **Guardar** al final. Si un dato tiene mal el formato (un mail sin @ o una red que no empieza con `https://`), el panel te avisa cuál es. El resto se guarda igual.

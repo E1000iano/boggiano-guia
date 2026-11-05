@@ -30,6 +30,11 @@ Hoy el sitio está publicado pero con **datos de ejemplo**. En este orden:
 - [ ] Crear un **segundo usuario** del panel, por si alguien olvida su contraseña. → [Usuarios](guia/11-usuarios.md)
 - [ ] Dar de baja la **tienda vieja** y cambiar el link en Instagram, Google y donde esté publicado.
 
+**Google y monitoreo** (una sola vez, con tu cuenta)
+- [ ] **Google Search Console** y el mapa del sitio. → [Google y monitoreo](guia/15-google-y-monitoreo.md)
+- [ ] **Perfil de Empresa en Google** (Google Maps), una ficha por sucursal. → [Google y monitoreo](guia/15-google-y-monitoreo.md)
+- [ ] **Aviso si el sitio se cae**, con UptimeRobot. → [Google y monitoreo](guia/15-google-y-monitoreo.md)
+
 ## Quiero cambiar…
 
 | Qué | Dónde, en el panel | Guía |
@@ -38,15 +43,17 @@ Hoy el sitio está publicado pero con **datos de ejemplo**. En este orden:
 | Un producto, su foto o si es destacado | Productos | [03](guia/03-productos.md) |
 | Muchos productos a la vez | Importar / Exportar | [04](guia/04-importar-exportar.md) |
 | Muchas fotos a la vez | Productos → Fotos en lote | [03](guia/03-productos.md#subir-muchas-fotos-juntas-fotos-en-lote) |
-| Las categorías o el menú "Productos" | Categorías | [05](guia/05-categorias.md) |
+| Las categorías o el menú "Productos" (agregar, ocultar, borrar) | Categorías | [05](guia/05-categorias.md) |
 | Direcciones, horarios, mapas | Sucursales | [06](guia/06-sucursales.md) |
 | Los logos de las marcas | Marcas | [07](guia/07-marcas.md) |
 | Las búsquedas de empleo / ver CV | Empleos · Postulaciones | [08](guia/08-empleos-y-postulaciones.md) |
 | Responder una consulta | Mensajes | [09](guia/09-mensajes.md) |
-| Un texto de cualquier página, el logo, las fotos grandes | Textos e imágenes | [10](guia/10-textos-e-imagenes.md) |
+| Un texto de cualquier página, el logo, las fotos grandes, la portada con o sin foto | Textos e imágenes | [10](guia/10-textos-e-imagenes.md) |
+| Ver qué productos consultan por WhatsApp | Consultas WhatsApp | [14](guia/14-consultas-por-whatsapp.md) |
 | Quién puede entrar al panel | Usuarios | [11](guia/11-usuarios.md) |
 | Leer los mails de las casillas | Webmail o Gmail | [12](guia/12-correo.md) |
 | Respaldos y qué no tocar | — | [13](guia/13-mantenimiento.md) |
+| Aparecer en Google y en Google Maps | Search Console y Perfil de Empresa | [15](guia/15-google-y-monitoreo.md) |
 
 ## Índice
 
@@ -63,6 +70,8 @@ Hoy el sitio está publicado pero con **datos de ejemplo**. En este orden:
 11. [Usuarios](guia/11-usuarios.md)
 12. [Correo](guia/12-correo.md)
 13. [Mantenimiento y respaldos](guia/13-mantenimiento.md)
+14. [Consultas por WhatsApp](guia/14-consultas-por-whatsapp.md)
+15. [Google y aviso si el sitio se cae](guia/15-google-y-monitoreo.md)
 
 ## Cómo funciona el sitio, en dos líneas
 

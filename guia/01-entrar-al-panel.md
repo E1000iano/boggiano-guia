@@ -24,5 +24,5 @@
 - **La sesión se cierra sola** después de 8 horas sin usar el panel. Si estabas editando, volvé a entrar y repetí el último cambio.
 - **Bloqueo por intentos:** después de **5 contraseñas mal puestas**, el ingreso queda bloqueado **15 minutos** desde esa conexión. Es una protección contra intentos de entrar a la fuerza. Esperá y probá de nuevo.
 - **Si aparece "La sesión venció o el formulario es inválido",** tenías la página abierta hacía mucho. Volvé atrás, recargá y guardá de nuevo.
-- **No hay "olvidé mi contraseña".** Si te la olvidás, otro usuario del panel te puede crear uno nuevo. Por eso conviene que haya al menos dos ([ver Usuarios](11-usuarios.md)).
+- **¿Olvidaste la contraseña?** En la pantalla de ingreso tocá **¿Olvidaste tu contraseña?** y escribí tu email. Te llega un link para elegir una nueva: sirve **una sola vez** y vence en **1 hora**. Si no te llega, mirá en spam, o pedile a otro usuario del panel que te cree uno nuevo ([Usuarios](11-usuarios.md)).
 - **Se usa igual en el celular y en la computadora.**

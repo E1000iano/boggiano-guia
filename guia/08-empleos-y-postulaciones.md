@@ -46,4 +46,5 @@
 ### Datos personales
 
 - **Dónde quedan los CV:** en un lugar **privado** del servidor. No se pueden abrir desde internet: solo se descargan desde el panel.
-- **Ley 25.326:** los CV son datos personales protegidos por la Ley de Protección de Datos Personales. **Borrá los que ya no necesites,** y si alguien pide que borren sus datos, borrá su postulación.
+- **Ley 25.326:** los CV son datos personales protegidos por la Ley de Protección de Datos Personales. Si alguien pide que borren sus datos, borrá su postulación.
+- **Borrado automático:** arriba de la lista de Postulaciones elegís cada cuántos meses se borran solas las postulaciones viejas, con su CV. Viene en **12 meses**, y **0** es no borrar nunca. Se hace sola una vez por día, la primera vez que alguien entra al panel. Al guardar un plazo nuevo, se borran en el momento las que ya lo superaron.

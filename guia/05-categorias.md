@@ -6,7 +6,15 @@
 
 ![Categorías](../img/categorias.jpg)
 
-La lista muestra cada categoría con cuántas subcategorías y productos tiene, en qué columna del menú aparece y su orden. Tocando el número de productos, vas a esos productos filtrados.
+La lista muestra cada categoría con su **estado** (Visible u Oculta), cuántas subcategorías y productos tiene, en qué columna del menú aparece y su orden. Tocando el número de productos, vas a esos productos filtrados.
+
+## Ocultar una categoría que no usás
+
+Tocá la etiqueta **Visible** de la lista (pasa a **Oculta**), o destildá **Visible en el sitio** al editarla.
+
+- Una categoría oculta **desaparece del sitio**: del menú "Productos", de los filtros del catálogo, de Inicio y del pie. **Sus productos tampoco se ven.**
+- **No se borra nada:** productos, fotos y subcategorías quedan guardados. Para que vuelva, tocá **Oculta** y queda visible otra vez.
+- Es lo más seguro para una categoría que no tenés por ahora, o que es de temporada.
 
 ## Editar una categoría
 
@@ -34,4 +42,8 @@ La lista muestra cada categoría con cuántas subcategorías y productos tiene, 
 ## Nueva categoría y borrar
 
 - **+ Nueva categoría:** el nombre define la dirección del filtro, por ejemplo `/productos?cat=quesos`. **Esa dirección no cambia después**, aunque renombres la categoría, para que los links compartidos sigan andando.
-- **Borrar categoría:** solo se puede si **no tiene productos**. Pasalos a otra categoría o borralos primero.
+- **Borrar categoría:** está al final de la pantalla de edición. Si tiene productos, elegís qué pasa con ellos:
+  - **Pasarlos a otra categoría:** quedan sin subcategoría, porque las subcategorías eran de la que se borra.
+  - **Borrar también sus productos** y sus fotos.
+
+  Borrar no se puede deshacer. Si dudás, ocultala.

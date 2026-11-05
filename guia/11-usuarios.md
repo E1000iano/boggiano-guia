@@ -24,4 +24,8 @@ Botón **Borrar** en su fila. La persona deja de poder entrar enseguida. No pod�
 
 ## Si alguien se olvida la contraseña
 
-No hay "olvidé mi contraseña". Otro usuario le **crea uno nuevo** y después borra el viejo. Por eso conviene que haya **al menos dos usuarios**. Si el único usuario se olvida la contraseña, hace falta ayuda técnica para recuperarlo desde el hosting.
+1. En la pantalla de ingreso, tocá **¿Olvidaste tu contraseña?** y poné el email del usuario.
+2. Llega un mail con un link para elegir una contraseña nueva. Sirve una sola vez y vence en 1 hora.
+3. Si el mail no llega (por ejemplo, porque el correo del sitio no está andando), otro usuario le **crea uno nuevo** y después borra el viejo. Por eso conviene que haya **al menos dos usuarios**.
+
+Por seguridad, el panel responde lo mismo exista o no ese email, así nadie puede averiguar qué emails tienen usuario.

@@ -37,8 +37,19 @@
 | Imagen | Dónde se ve | Recomendación |
 |---|---|---|
 | **Logo** | Encabezado y pie de página | Ya está el **logo oficial**. Subí otro solo si querés cambiarlo, en PNG con fondo transparente. "Quitar" vuelve al oficial |
-| **Foto de portada** | Inicio, al lado del título grande. También es la imagen que se ve al **compartir el link** del sitio | Horizontal, del mostrador o de una picada. Sin foto se ve un recuadro que dice "Foto del mostrador o de una picada" |
+| **Foto de portada** | Inicio, al lado del título grande. También es la imagen que se ve al **compartir el link** del sitio | Horizontal, del mostrador o de una picada. Sin foto, la portada muestra solo el título y al compartir se ve el logo |
 | **Foto de Nosotros** | Página Nosotros, al lado de la historia | Del local o del equipo |
+
+### Portada con o sin foto
+
+En la misma pestaña **Imágenes**, en **Portada de Inicio**:
+
+- **Con foto:** la foto de portada se muestra a la derecha del título.
+- **Sin foto:** solo el título, más grande y a todo el ancho. La foto queda guardada, así que volver a "Con foto" la muestra de nuevo.
+
+**Si no hay ninguna foto de portada cargada,** la portada se muestra sola sin foto, sin el recuadro vacío.
+
+![Portada sin foto](../img/portada-sin-foto.jpg)
 
 - **Formatos:** JPG, PNG o WebP, de hasta 15 MB. Se achican solas.
 - **Vista previa:** apenas elegís el archivo se ve en el panel, y se guarda con **Guardar imágenes**.
