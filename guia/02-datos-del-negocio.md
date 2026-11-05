@@ -12,7 +12,7 @@
 |---|---|---|
 | **Nombre del negocio** | Boggiano Fiambrerías | Título de la pestaña del navegador, pie de página, textos del formulario de empleo y avisos por mail |
 | **Frase corta** | Una línea | Debajo del logo, en el pie de página |
-| **WhatsApp** | Con código de país y área, **sin 0 ni 15**. Ej: `5493411234567`. Si ponés espacios o guiones, se sacan solos | **Todos** los botones de WhatsApp: "Consultar" de cada producto, el botón verde flotante, el del menú en el celular, "Consultar por WhatsApp" de Inicio y Contacto, y los de cada sucursal |
+| **WhatsApp** | Con código de país y área, **sin 0 ni 15**. Ej: `5493411234567`. Si ponés espacios o guiones, se sacan solos | Los botones generales de WhatsApp: "Consultar" del encabezado, el botón verde flotante, el del menú en el celular y "Consultar por WhatsApp" de Inicio y Contacto. Los de cada sucursal usan el WhatsApp de esa sucursal, si lo tiene cargado |
 | **Teléfono** | Como querés que se lea. Ej: `(0341) 456-7890` | Pie de página y página Contacto. En el celular se puede tocar para llamar |
 | **Email público** | El que ven los clientes | Pie de página y página Contacto |
 | **Email que recibe los mensajes** | Normalmente `ventas@` | A esta casilla llegan los avisos de **Contacto** y **Proveedores** |
@@ -29,5 +29,5 @@ Tocá **Guardar** al final. Si un dato tiene mal el formato (un mail sin @ o una
 
 ## Bueno saber
 
-- El **número de WhatsApp es el más importante:** es como los clientes consultan por los productos. Después de cambiarlo, probá tocar "Consultar" en un producto desde tu celular.
+- El **número de WhatsApp es el más importante:** es como los clientes consultan por los productos. Después de cambiarlo, probá tocar "Consultar" arriba de todo desde tu celular.
 - Los mails de los formularios salen siempre desde la casilla configurada en el hosting (`ventas@`). Si un cliente escribe por Contacto, en tu casilla vas a ver "responder a" con el mail del cliente: respondés directo.
