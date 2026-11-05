@@ -28,6 +28,24 @@
 | **Empleos** | Descripción para Google, encabezado, el título de las búsquedas y el del formulario |
 | **Contacto** | Descripción para Google, encabezado y el título del formulario |
 
+### Mensajes de WhatsApp
+
+La pestaña **WhatsApp** tiene lo que queda escrito en el chat cuando alguien toca un botón de WhatsApp. La persona lo ve y lo puede cambiar antes de enviarlo.
+
+| Campo | De qué botón | Mensaje original |
+|---|---|---|
+| **General** | Consultar del encabezado, el de la portada y el de Contacto | "Hola! Quería hacer una consulta." |
+| **Producto** | El botón verde de cada producto | "Hola! Quería consultar por {producto}." |
+| **Sucursal** | El botón WhatsApp de cada sucursal | "Hola! Quería consultar por la sucursal {sucursal}." |
+| **Búsqueda** | El del catálogo cuando una búsqueda no encuentra nada | "Hola! Quería consultar por {busqueda}." |
+| **Flotante** | El botón flotante, el del menú del celular y el ícono del pie | Ninguno: abre el chat vacío |
+
+- **Las marcas entre llaves se completan solas:** `{producto}` con el nombre y la marca (ej. "Cremoso Tremblay"), `{sucursal}` con el nombre de la sucursal y `{busqueda}` con lo que buscaron. Si la sacás, el mensaje sale igual, sin ese dato.
+- **Si dejás un campo vacío,** vuelve el mensaje original.
+- **A qué número va** no se cambia acá: los de sucursal van al WhatsApp de cada sucursal y el resto al de [Datos del negocio](02-datos-del-negocio.md).
+
+![Mensajes de WhatsApp](../img/textos-whatsapp.jpg)
+
 **"Descripción para Google"** es el texto que aparece debajo del título cuando el sitio sale en Google, y al compartir el link por WhatsApp o redes. Conviene una o dos frases que digan qué hay en esa página.
 
 > **Pendiente:** en **Nosotros**, la historia todavía dice "Texto de historia a confirmar". Es lo primero para cambiar acá.
