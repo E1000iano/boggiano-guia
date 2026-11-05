@@ -17,7 +17,7 @@
 | **Horario por día** | Para cada día, la hora de apertura y de cierre. Si cortan al mediodía, usá la **segunda franja** (ej. 8:30 a 13:30 y 17:00 a 21:00). Un día sin horas = cerrado | El cartel **"Abierto ahora · cierra a las 21"** o **"Cerrado · abre mañana a las 8:30"**, la línea **"Hoy: …"** y el horario que muestra Google |
 | **Horarios en texto** | Opcional. Si lo dejás vacío, **se arma solo** con el horario por día (ej. "Lun a Sáb 8:30 a 13:30 y 17 a 21") | Tarjeta, Contacto y pie |
 | **Dirección para el mapa** | Calle, número, **ciudad y provincia**, como la buscarías en Google Maps | Muestra el **mapa** y el botón **Cómo llegar**. Vacío = sin mapa |
-| **Teléfono** | Opcional | Queda guardado (por ahora no se muestra en la tarjeta) |
+| **WhatsApp de la sucursal** | Opcional. Como lo copiás del celular, ej. `+54 9 3704 36-6506` | El botón **WhatsApp** de esa sucursal abre el chat con **ese número**, y el teléfono se muestra en su tarjeta. Vacío = usa el WhatsApp general de [Datos del negocio](02-datos-del-negocio.md) |
 | **Orden** | Número | Orden de las tarjetas (menor primero) |
 | **Visible** | Casilla | Destildada, la sucursal no aparece en ningún lado |
 
