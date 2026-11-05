@@ -58,6 +58,8 @@ Tocá **+ Nuevo producto** o **Editar**.
 | Destacado | **Los primeros 4** destacados, según el orden, salen en Inicio, en "Los que más salen", con la etiqueta roja *Destacado* |
 | Orden | El orden de las tarjetas en el catálogo y cuáles 4 destacados se ven en Inicio |
 
+**La tarjeta de cada producto** muestra la foto a todo el ancho, la **marca** arriba del nombre y, en gris, dónde está en el catálogo (categoría · subcategoría · tipo). **No tiene botón de WhatsApp propio:** para consultar se usa el botón verde del encabezado o el flotante.
+
 | Así se ven los destacados en Inicio | Así se ven las categorías en Inicio |
 |---|---|
 | ![Destacados](../img/sitio-destacados.jpg) | ![Categorías](../img/sitio-categorias.jpg) |

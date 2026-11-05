@@ -27,7 +27,7 @@ El sitio vive en el hosting en dos carpetas. Desde el panel del sitio no hace fa
 - **Postulaciones:** borrá las que ya no necesites (Ley 25.326).
 - **Fotos:** revisá en el panel los productos **sin foto** y ocultá los que ya no vendés.
 - **Búsquedas laborales:** cerrá las que ya cubriste.
-- **Horarios:** en fechas especiales (fiestas, feriados), cambialos en [Sucursales](06-sucursales.md), y si hace falta en la portada desde [Textos](10-textos-e-imagenes.md).
+- **Horarios:** el cartel "Abierto ahora" **no sabe de feriados**. Para un feriado o una fecha especial, cambiá ese día en el **horario por día** de [Sucursales](06-sucursales.md) (dejalo vacío si cierran) y volvé a ponerlo después. Si hace falta avisarlo, sumalo al texto de la portada desde [Textos](10-textos-e-imagenes.md).
 
 ## Vencimientos
 

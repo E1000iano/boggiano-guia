@@ -22,10 +22,10 @@ Tocá la etiqueta **Visible** de la lista (pasa a **Oculta**), o destildá **Vis
 
 | Campo | Qué cambia en el sitio |
 |---|---|
-| **Nombre** | El botón de filtro del catálogo, la tarjeta de Inicio, el menú desplegable "Productos" y la lista del pie |
-| **Ícono** | El dibujo de la tarjeta en Inicio, y el de los productos de esa categoría que no tienen foto |
+| **Nombre** | El botón de filtro del catálogo, la ficha de Inicio, el menú desplegable "Productos" y la lista del pie |
+| **Ícono** | El dibujo de la ficha de color en Inicio, y el de los productos de esa categoría que no tienen foto |
 | **Columna del menú** | En cuál de las **4 columnas** del desplegable "Productos" aparece |
-| **Orden** | El orden de los filtros, de las tarjetas de Inicio y del pie (menor primero) |
+| **Orden** | El orden de los filtros, de las fichas de Inicio y del pie (menor primero). Los colores de las fichas se alternan solos según el orden |
 | **Subcategorías y tipos** | Los filtros debajo de la categoría en el catálogo (una fila para subcategorías y, si la subcategoría tiene tipos, otra fila más abajo), y la lista del desplegable |
 
 ![Menú desplegable de productos](../img/sitio-menu-productos.jpg)

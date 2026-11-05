@@ -34,6 +34,8 @@ El estado se calcula con la **hora de Argentina** en el momento en que la person
 ![Sucursales en el sitio](../img/sitio-sucursales.jpg)
 
 - **Inicio:** la **primera sucursal visible** sale destacada en "Te esperamos", con mapa, el cartel de abierto o cerrado, el horario de hoy y los botones **Cómo llegar** y **WhatsApp**. Su estado también aparece arriba de todo en la portada.
+![Sucursal destacada en Inicio](../img/sitio-sucursal-inicio.jpg)
+
 - **Página Sucursales:** una tarjeta por sucursal visible, con mapa, el cartel de abierto o cerrado, dirección, horarios, **Cómo llegar** (abre Google Maps con el recorrido) y **WhatsApp**, que abre el chat con el nombre de esa sucursal en el mensaje.
 - **Página Contacto:** la lista de sucursales, y el **mapa de la primera**.
 - **Pie de página:** la dirección y los horarios de la **primera sucursal visible**.

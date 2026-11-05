@@ -21,12 +21,17 @@
 |---|---|
 | **Inicio** | Título de la pestaña del navegador, descripción para Google, la portada (etiqueta, título, título en amarillo, texto y la **etiqueta sobre la foto**; escribí `-` para no mostrarla), los **3 sellos** de la franja amarilla, los títulos de las secciones (incluida la de la sucursal, "Te esperamos") y los 4 motivos de "Por qué Boggiano" |
 | **Productos** | Descripción para Google y el encabezado (etiqueta, título y texto) |
+| **WhatsApp** | Los mensajes que quedan escritos al abrir el chat (ver abajo) |
 | **Sucursales** | Descripción para Google y el encabezado |
 | **Nosotros** | Descripción para Google, encabezado, **historia** (título y dos párrafos), los 4 valores y la banda final |
 | **Marcas** | Descripción para Google, encabezado y la banda "¿Tenés una marca?" |
 | **Proveedores** | Descripción para Google, encabezado, "Qué buscamos", los 3 requisitos y el título del formulario |
 | **Empleos** | Descripción para Google, encabezado, el título de las búsquedas y el del formulario |
 | **Contacto** | Descripción para Google, encabezado y el título del formulario |
+
+![Franja de sellos en Inicio](../img/sitio-sellos.jpg)
+
+*La franja de sellos, debajo de la portada. Sus 3 textos están en Inicio → Sellos.*
 
 ### Mensajes de WhatsApp
 

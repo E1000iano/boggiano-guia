@@ -8,17 +8,30 @@ El panel está en **[boggianofiambrerias.com.ar/admin](https://boggianofiambreri
 
 ![El sitio](img/sitio-inicio.jpg)
 
+## Qué hay en Inicio y de dónde sale cada cosa
+
+| De arriba hacia abajo | Se cambia en |
+|---|---|
+| Botón verde **Consultar** del encabezado y botón flotante **¿Consultás? Escribinos** | El número, en [Datos del negocio](guia/02-datos-del-negocio.md); el mensaje, en [Textos → WhatsApp](guia/10-textos-e-imagenes.md#mensajes-de-whatsapp) |
+| Cartel **"Abierto ahora · cierra a las 21"** | El horario por día de la primera sucursal, en [Sucursales](guia/06-sucursales.md) |
+| Portada: título, texto y la etiqueta sobre la foto | [Textos e imágenes](guia/10-textos-e-imagenes.md) → Inicio; la foto, en Imágenes |
+| Franja amarilla con los **3 sellos** | [Textos e imágenes](guia/10-textos-e-imagenes.md) → Inicio → Sellos |
+| **Fichas de categorías** (en el celular se deslizan de costado) | [Categorías](guia/05-categorias.md) |
+| **Los que más salen**: los primeros 4 destacados | [Productos](guia/03-productos.md), con la estrella ★ |
+| **Te esperamos**: la sucursal principal con mapa, horario de hoy, Cómo llegar y WhatsApp | La primera sucursal visible, en [Sucursales](guia/06-sucursales.md) |
+| **Por qué Boggiano** y **Marcas** | [Textos e imágenes](guia/10-textos-e-imagenes.md) y [Marcas](guia/07-marcas.md) |
+
 ## Para dejar el sitio listo
 
 Hoy el sitio está publicado pero con **datos de ejemplo**. En este orden:
 
 **Urgente**
-- [ ] **WhatsApp real.** Mientras diga `5490000000000`, cada botón "Consultar" lleva a un número que no existe. → [Datos del negocio](guia/02-datos-del-negocio.md)
-- [ ] **Teléfono, Instagram y Facebook.** → [Datos del negocio](guia/02-datos-del-negocio.md)
+- [ ] **WhatsApp general real.** Mientras diga `5490000000000`, los botones generales (Consultar del encabezado, el flotante, el de la portada y el de Contacto) llevan a un número que no existe. Los de cada sucursal ya van al WhatsApp de esa sucursal. → [Datos del negocio](guia/02-datos-del-negocio.md)
+- [ ] **Teléfono, Instagram y Facebook.** El pie de página todavía muestra "(000) 000-0000". → [Datos del negocio](guia/02-datos-del-negocio.md)
 - [ ] **Casillas de correo:** `ventas@` (con la contraseña que tiene cargada el sitio) y el alias `empleos@`. Sin ellas, los avisos de mensajes y CV no salen. → [Correo](guia/12-correo.md)
 
 **Contenido**
-- [ ] **Sucursales:** dirección, horarios y mapa de cada una. → [Sucursales](guia/06-sucursales.md)
+- [x] **Sucursales:** dirección, horario por día, mapa y WhatsApp de cada una (cargadas las 7 el 5/11). → [Sucursales](guia/06-sucursales.md)
 - [ ] **Catálogo real**, cargado desde Excel, y **fotos** de los productos (se pueden subir todas juntas con *Fotos en lote*). Borrá u ocultá los de ejemplo que no vendas. → [Importar](guia/04-importar-exportar.md) · [Fotos en lote](guia/03-productos.md#subir-muchas-fotos-juntas-fotos-en-lote)
 - [ ] **Marcas reales** con su logo. "Marca 2" a "Marca 6" son de ejemplo. → [Marcas](guia/07-marcas.md)
 - [ ] **Búsquedas laborales:** las dos que hay son de ejemplo. → [Empleos](guia/08-empleos-y-postulaciones.md)
@@ -44,12 +57,14 @@ Hoy el sitio está publicado pero con **datos de ejemplo**. En este orden:
 | Muchos productos a la vez | Importar / Exportar | [04](guia/04-importar-exportar.md) |
 | Muchas fotos a la vez | Productos → Fotos en lote | [03](guia/03-productos.md#subir-muchas-fotos-juntas-fotos-en-lote) |
 | Las categorías o el menú "Productos" (agregar, ocultar, borrar) | Categorías | [05](guia/05-categorias.md) |
-| Direcciones, horarios, mapas | Sucursales | [06](guia/06-sucursales.md) |
+| Direcciones, horario por día ("Abierto ahora"), mapas y el WhatsApp de cada sucursal | Sucursales | [06](guia/06-sucursales.md) |
+| Qué sucursal sale destacada en Inicio | Sucursales: la primera visible (orden más bajo) | [06](guia/06-sucursales.md) |
 | Los logos de las marcas | Marcas | [07](guia/07-marcas.md) |
 | Las búsquedas de empleo / ver CV | Empleos · Postulaciones | [08](guia/08-empleos-y-postulaciones.md) |
 | Responder una consulta | Mensajes | [09](guia/09-mensajes.md) |
-| Un texto de cualquier página, el logo, las fotos grandes, la portada con o sin foto | Textos e imágenes | [10](guia/10-textos-e-imagenes.md) |
-| Ver qué productos consultan por WhatsApp | Consultas WhatsApp | [14](guia/14-consultas-por-whatsapp.md) |
+| Un texto de cualquier página, los sellos, la etiqueta sobre la foto, el logo, las fotos grandes, la portada con o sin foto | Textos e imágenes | [10](guia/10-textos-e-imagenes.md) |
+| Lo que queda escrito al abrir WhatsApp | Textos e imágenes → WhatsApp | [10](guia/10-textos-e-imagenes.md#mensajes-de-whatsapp) |
+| Ver cuántas consultas llegan por WhatsApp | Consultas WhatsApp | [14](guia/14-consultas-por-whatsapp.md) |
 | Quién puede entrar al panel | Usuarios | [11](guia/11-usuarios.md) |
 | Leer los mails de las casillas | Webmail o Gmail | [12](guia/12-correo.md) |
 | Respaldos y qué no tocar | — | [13](guia/13-mantenimiento.md) |

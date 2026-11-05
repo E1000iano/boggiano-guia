@@ -6,17 +6,17 @@
 
 ![Consultas por WhatsApp](../img/consultas.jpg)
 
-Cada vez que alguien toca un botón de WhatsApp del sitio, el panel lo anota. Así ves qué productos interesan y si el sitio trae consultas.
+Cada vez que alguien toca un botón de WhatsApp del sitio, el panel lo anota. Así ves si el sitio trae consultas y por qué sucursal preguntan.
 
 ## Qué muestra
 
 - **Período:** se elige arriba entre los últimos 7, 30 o 90 días.
 - **Totales:** cuántas consultas hubo, separadas según de dónde salieron:
-  - **Desde un producto:** el botón "Consultar" de cada producto.
-  - **Desde una sucursal:** el botón "Consultar" de cada sucursal.
-  - **Botón general:** el botón verde flotante, el del menú en el celular y los de Inicio y Contacto.
+  - **Desde una sucursal:** el botón "WhatsApp" de cada sucursal (en Inicio y en Sucursales).
+  - **Botón general:** el "Consultar" del encabezado, el flotante, el del menú en el celular, el de la portada, el de Contacto y el del catálogo cuando una búsqueda no encuentra nada.
+  - **Desde un producto:** solo consultas viejas. Los productos ya no tienen botón propio, así que este número deja de crecer.
 - **Consultas por día:** pasá el mouse por una barra para ver el número de ese día.
-- **Productos y sucursales más consultados**, y **desde qué página** llegaron.
+- **Sucursales más consultadas** (y los productos de antes, mientras entren en el período), y **desde qué página** llegaron.
 
 ## Bueno saber
 
@@ -24,5 +24,6 @@ Cada vez que alguien toca un botón de WhatsApp del sitio, el panel lo anota. As
 - **No se guarda nada de la persona:** ni su número, ni su nombre, ni qué escribió.
 - **Clics repetidos:** una misma conexión cuenta hasta 30 clics por hora, así nadie infla los números tocando el botón muchas veces.
 - **Para qué sirve:**
-  - **Fotos:** los productos que más se consultan son los primeros a los que conviene ponerles foto.
-  - **Destacados:** conviene marcar esos productos como destacados, así aparecen en Inicio.
+  - **Ver si la web trae clientes:** si el total sube después de una publicación en redes o de un cambio en el sitio, funcionó.
+  - **Sucursales:** cuál recibe más consultas desde la web, para reforzar la atención por WhatsApp de esa sucursal.
+  - **Desde qué página:** si llegan desde Productos, el catálogo se está usando; si es mayormente desde Inicio, conviene destacar bien los productos que más salen.
