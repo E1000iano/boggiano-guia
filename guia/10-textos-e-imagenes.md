@@ -8,7 +8,9 @@
 
 ![Textos de Inicio](../img/textos.jpg)
 
+- **Los campos están agrupados por sección de la página** (Portada, Motivos, Secciones…), cada una plegable, para no tener que scrollear todo. Cada sección muestra cuántos campos tiene y, en amarillo, **cuántos cambiaste** respecto del texto original. **Abrir todo / Cerrar todo** arriba.
 - **Cada campo dice dónde aparece.** Por ejemplo, "Portada · título" o "Motivo 2 · texto".
+- **El botón Guardar textos queda fijo abajo,** siempre a mano mientras bajás.
 - **Si dejás un campo vacío,** vuelve el texto original. Así no hay forma de romper nada: siempre podés volver atrás.
 - **Los saltos de línea se respetan** en los textos largos.
 - **Guardar textos** guarda la pestaña entera. Después tocá **Ver la página** para revisar cómo quedó.

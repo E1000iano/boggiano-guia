@@ -6,7 +6,7 @@
 
 ![Categorías](../img/categorias.jpg)
 
-La lista muestra cada categoría con su **estado** (Visible u Oculta), cuántas subcategorías y productos tiene, en qué columna del menú aparece y su orden. Tocando el número de productos, vas a esos productos filtrados.
+La lista muestra cada categoría con su **estado** (Visible u Oculta), cuántas subcategorías, tipos y productos tiene, en qué columna del menú aparece y su orden. Tocando el número de productos, vas a esos productos filtrados.
 
 ## Ocultar una categoría que no usás
 
@@ -26,18 +26,28 @@ Tocá la etiqueta **Visible** de la lista (pasa a **Oculta**), o destildá **Vis
 | **Ícono** | El dibujo de la tarjeta en Inicio, y el de los productos de esa categoría que no tienen foto |
 | **Columna del menú** | En cuál de las **4 columnas** del desplegable "Productos" aparece |
 | **Orden** | El orden de los filtros, de las tarjetas de Inicio y del pie (menor primero) |
-| **Subcategorías** | Los filtros chicos debajo de la categoría en el catálogo, y la lista del desplegable |
+| **Subcategorías y tipos** | Los filtros debajo de la categoría en el catálogo (una fila para subcategorías y, si la subcategoría tiene tipos, otra fila más abajo), y la lista del desplegable |
 
 ![Menú desplegable de productos](../img/sitio-menu-productos.jpg)
 
 *El desplegable "Productos" del sitio: cada categoría con sus subcategorías, en la columna elegida.*
 
-## Subcategorías
+## Subcategorías y tipos (tres niveles)
+
+Los productos se ordenan en **categoría › subcategoría › tipo**. Por ejemplo: **Quesos › Blandos › Cremoso**. Los tipos son **opcionales**: una subcategoría sin tipos funciona como siempre.
+
+En la pantalla de edición, cada subcategoría está en un recuadro, con sus tipos debajo (marcados con ↳). El número a la derecha es cuántos productos tiene cada una.
 
 - **Renombrar:** cambiá el texto y guardá. Los productos que la tenían la siguen teniendo.
-- **Agregar:** usá los campos vacíos de "Nueva subcategoría". Hay 3 por vez: si necesitás más, guardá y volvé a entrar.
-- **Borrar:** dejá el campo **vacío** y guardá. Los productos que la tenían quedan sin subcategoría, pero no se borran.
+- **Agregar un tipo:** escribilo en el campo "Nuevo tipo dentro de…" de esa subcategoría y guardá.
+- **Agregar una subcategoría:** usá los campos "Nueva subcategoría" del final. Para ponerle tipos, guardala y volvé a entrar.
+- **Borrar:** dejá el campo **vacío** y guardá. **Sus productos suben un nivel, no se borran:** los de un tipo pasan a su subcategoría, y los de una subcategoría quedan en la categoría sola (si la subcategoría tenía tipos, también se borran).
 - **El orden** en que aparecen es el orden de la lista.
+- **Qué producto va en cada una** se elige en el producto (campo **Ubicación**) o de a muchos con **Mover** en la lista de [Productos](03-productos.md).
+
+En el catálogo, al elegir una subcategoría con tipos aparece una **tercera fila de filtros** con sus tipos. El link queda así: `/productos?cat=quesos&sub=Blandos&tipo=Cremoso`.
+
+![Filtros de tres niveles en el catálogo](../img/sitio-tipos.jpg)
 
 ## Nueva categoría y borrar
 
