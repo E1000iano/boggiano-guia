@@ -19,7 +19,7 @@
 
 | Pestaña | Qué textos tiene |
 |---|---|
-| **Inicio** | Título de la pestaña del navegador, descripción para Google, la portada (etiqueta, título, título en amarillo, texto y los 3 sellos), los títulos de las secciones y los 4 motivos de "Por qué Boggiano" |
+| **Inicio** | Título de la pestaña del navegador, descripción para Google, la portada (etiqueta, título, título en amarillo, texto y la **etiqueta sobre la foto**; escribí `-` para no mostrarla), los **3 sellos** de la franja amarilla, los títulos de las secciones (incluida la de la sucursal, "Te esperamos") y los 4 motivos de "Por qué Boggiano" |
 | **Productos** | Descripción para Google y el encabezado (etiqueta, título y texto) |
 | **Sucursales** | Descripción para Google y el encabezado |
 | **Nosotros** | Descripción para Google, encabezado, **historia** (título y dos párrafos), los 4 valores y la banda final |
