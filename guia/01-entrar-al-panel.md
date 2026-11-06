@@ -14,7 +14,7 @@
 ![Inicio del panel](../img/inicio-panel.jpg)
 
 - **Arriba:** los cuadros muestran cuántas **postulaciones** y **mensajes nuevos** hay. Si hay alguno, el número sale en rojo. Tocá el cuadro para ir directo.
-- **Avisos:** te recuerda si el sitio sigue con la barra "Versión de prueba" y cuántos productos no tienen foto.
+- **Avisos:** te recuerda si el sitio sigue con la barra "Sitio en construcción" y cuántos productos no tienen foto.
 - **Menú:** en la computadora está a la izquierda. En el celular es una barra que se desliza de costado, debajo del título.
 - **Números rojos en el menú:** al lado de *Postulaciones* y *Mensajes* indican lo que todavía no abriste.
 - **Arriba a la derecha:** **Ver sitio** abre la web en otra pestaña, y **Salir** cierra la sesión.

@@ -39,7 +39,7 @@ Hoy el sitio está publicado pero con **datos de ejemplo**. En este orden:
 - [ ] Borrar el mensaje **"PRUEBA del sistema"**. → [Mensajes](guia/09-mensajes.md)
 
 **Para cerrar**
-- [ ] Apagar la barra amarilla **"Versión de prueba"**. → [Datos del negocio](guia/02-datos-del-negocio.md)
+- [ ] Apagar la barra amarilla **"Sitio en construcción"** y prender las páginas que falten. → [Datos del negocio](guia/02-datos-del-negocio.md)
 - [ ] Crear un **segundo usuario** del panel, por si alguien olvida su contraseña. → [Usuarios](guia/11-usuarios.md)
 - [ ] Dar de baja la **tienda vieja** y cambiar el link en Instagram, Google y donde esté publicado.
 

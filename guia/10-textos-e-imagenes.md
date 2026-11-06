@@ -25,6 +25,8 @@
 | **Sucursales** | Descripción para Google y el encabezado |
 | **Nosotros** | Descripción para Google, encabezado, **historia** (título y dos párrafos), los 4 valores y la banda final |
 | **Marcas** | Descripción para Google, encabezado y la banda "¿Tenés una marca?" |
+| **Franquicias** | Descripción para Google, encabezado, los 4 beneficios, los 3 pasos y el título del formulario. La banda roja "Sumate a la red Boggiano" de Inicio está en la pestaña **Inicio** |
+| **Sandwichería** | Descripción para Google, encabezado y el cartel "en construcción" (etiqueta, título y texto) |
 | **Proveedores** | Descripción para Google, encabezado, "Qué buscamos", los 3 requisitos y el título del formulario |
 | **Empleos** | Descripción para Google, encabezado, el título de las búsquedas y el del formulario |
 | **Contacto** | Descripción para Google, encabezado y el título del formulario |

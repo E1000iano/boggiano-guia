@@ -11,13 +11,14 @@ Acá llegan los formularios de dos páginas del sitio:
 | Formulario | Página | Qué trae |
 |---|---|---|
 | **Contacto** | Contacto | Nombre, email y mensaje |
+| **Franquicias** | Franquicias | Nombre, email, teléfono, zona de interés y mensaje |
 | **Proveedores** | Proveedores | Empresa, contacto, email, teléfono, rubro y mensaje |
 
 Cada mensaje queda en el panel **y** llega por mail a la casilla de mensajes de [Datos del negocio](02-datos-del-negocio.md).
 
 ## Qué podés hacer
 
-- **Filtrar** por tipo: Todos, Contacto o Proveedores.
+- **Filtrar** por tipo: Todos, Contacto, Franquicias o Proveedores.
 - **Ver:** abre el mensaje completo y lo marca como leído.
 - **Responder por mail:** abre tu correo con el mail de la persona ya cargado. También podés responder directo el aviso que te llegó a la casilla.
 - **Marcar como no leído** o **Borrar**.
