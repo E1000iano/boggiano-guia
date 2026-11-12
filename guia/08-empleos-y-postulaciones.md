@@ -49,8 +49,8 @@ Quien se postula puede marcar **varios puestos a la vez**: por ejemplo, Cajero/a
 
 ### Cómo llega una postulación
 
-1. **La persona completa el formulario** de la página Empleos y adjunta su CV: **PDF o Word, de hasta 5 MB**. Tiene que aceptar el uso de sus datos.
-2. **El sitio revisa que el archivo sea un CV de verdad.** Un archivo que no es PDF ni Word, aunque tenga ese nombre, se rechaza.
+1. **La persona completa el formulario** de la página Empleos y adjunta su CV: **PDF, Word o una foto (JPG, PNG o WebP), de hasta 15 MB**. La foto sirve para quien postula desde el celular con el CV en papel. Tiene que aceptar el uso de sus datos.
+2. **El sitio revisa que el archivo sea de verdad lo que dice ser.** Un archivo que no es PDF, Word ni una foto, aunque tenga ese nombre, se rechaza.
 3. **La postulación queda en el panel** y **llega por mail** a la casilla de CV de [Datos del negocio](02-datos-del-negocio.md), con el CV adjunto. Si el mail falla por algún motivo, igual queda en el panel.
 
 ### Datos personales
