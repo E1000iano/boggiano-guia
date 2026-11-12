@@ -18,12 +18,22 @@
 
 ![Editar búsqueda](../img/empleo-editar.jpg)
 
-**Qué cambia en el sitio:** en la página **Empleos** aparece una tarjeta por cada búsqueda abierta, con su botón **Postularme**. El puesto también se suma al selector "Puesto" del formulario. Siempre queda además la opción **"Otro / búsqueda general"**, para quien quiera dejar el CV igual.
+**Qué cambia en el sitio:** en la página **Empleos** aparece una tarjeta por cada búsqueda abierta, con su botón **Postularme**. El puesto también aparece como opción en el formulario. Siempre queda además la opción **"Otro / búsqueda general"**, para quien quiera dejar el CV igual.
 
 ![Búsquedas en el sitio](../img/sitio-empleos.jpg)
 
 - **Sin búsquedas abiertas,** la página dice "No hay búsquedas abiertas" e invita a dejar el CV igual.
 - **Cerrar o borrar una búsqueda** no borra las postulaciones que ya llegaron.
+
+### Postularse a varios puestos
+
+Quien se postula puede marcar **varios puestos a la vez**: por ejemplo, Cajero/a, Atención al público y Repositor/a. Así alguien con experiencia en más de un área no tiene que mandar el CV varias veces.
+
+![Puestos en el formulario](../img/sitio-empleos-puestos.jpg)
+
+- **Cuántos puede marcar:** arriba de la lista de Empleos, en **"Quien se postula puede elegir hasta __ puestos"**. Viene en **3**; va de 1 a 10. Con **1**, elige un solo puesto, como antes.
+- **En el sitio,** el formulario dice "elegí hasta 3" (o el número que pongas). Al llegar al tope, los demás puestos quedan en gris hasta que desmarque alguno.
+- **El botón Postularme** de cada búsqueda deja ese puesto marcado en el formulario.
 
 ## Postulaciones
 
@@ -31,8 +41,8 @@
 
 ![Postulaciones](../img/postulaciones.jpg)
 
-- **Filtrar por puesto:** los botones de arriba.
-- **Ver:** abre el detalle, con nombre, mail, teléfono, puesto, experiencia, fecha y el CV. Al abrirla, se marca como leída.
+- **Filtrar por puesto:** los botones de arriba. Una postulación a varios puestos cuenta en cada uno: la de Cajero/a, Atención al público y Repositor/a aparece en esas tres pestañas. En Empleos, la columna **Postulaciones** cuenta igual.
+- **Ver:** abre el detalle, con nombre, mail, teléfono, puestos elegidos, experiencia, fecha y el CV. Al abrirla, se marca como leída.
 - **CV:** lo descarga directamente.
 - **Marcar como no leída:** para acordarte de volver a verla.
 - **Borrar postulación y CV:** borra los dos. **No se puede deshacer.**

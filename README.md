@@ -61,6 +61,7 @@ Hoy el sitio está publicado pero con **datos de ejemplo**. En este orden:
 | Qué sucursal sale destacada en Inicio | Sucursales: la primera visible (orden más bajo) | [06](guia/06-sucursales.md) |
 | Los logos de las marcas | Marcas | [07](guia/07-marcas.md) |
 | Las búsquedas de empleo / ver CV | Empleos · Postulaciones | [08](guia/08-empleos-y-postulaciones.md) |
+| Cuántos puestos puede elegir quien se postula | Empleos (arriba de la lista) | [08](guia/08-empleos-y-postulaciones.md#postularse-a-varios-puestos) |
 | Responder una consulta | Mensajes | [09](guia/09-mensajes.md) |
 | Un texto de cualquier página, los sellos, la etiqueta sobre la foto, el logo, las fotos grandes, la portada con o sin foto | Textos e imágenes | [10](guia/10-textos-e-imagenes.md) |
 | Lo que queda escrito al abrir WhatsApp | Textos e imágenes → WhatsApp | [10](guia/10-textos-e-imagenes.md#mensajes-de-whatsapp) |
