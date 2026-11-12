@@ -13,11 +13,14 @@
 
 ![Inicio del panel](../img/inicio-panel.jpg)
 
-- **Arriba:** los cuadros muestran cuántas **postulaciones** y **mensajes nuevos** hay. Si hay alguno, el número sale en rojo. Tocá el cuadro para ir directo.
+- **Arriba:** los cuadros muestran cuántas **postulaciones** y **mensajes sin leer** hay (con la marca **Nuevo** si hay alguno), cuántos productos se ven y cuántas consultas por WhatsApp hubo en la semana. Tocá un cuadro para ir directo.
+- **Consultas por WhatsApp:** el gráfico de los últimos 14 días; el día de hoy va en bordó. Al lado del total, cuánto subió o bajó contra los 14 días anteriores. Tocá el gráfico para ver el detalle.
+- **Accesos rápidos:** nuevo producto, subir fotos, nueva búsqueda y horarios de las sucursales.
 - **Avisos:** te recuerda si el sitio sigue con la barra "Sitio en construcción" y cuántos productos no tienen foto.
-- **Menú:** en la computadora está a la izquierda. En el celular es una barra que se desliza de costado, debajo del título.
-- **Números rojos en el menú:** al lado de *Postulaciones* y *Mensajes* indican lo que todavía no abriste.
-- **Arriba a la derecha:** **Ver sitio** abre la web en otra pestaña, y **Salir** cierra la sesión.
+- **Últimas postulaciones y últimos mensajes:** el punto bordó al lado del nombre marca lo que todavía no abriste.
+- **Menú:** en la computadora está a la izquierda, agrupado en **Catálogo**, **Sitio** y **Personas**. En el celular se abre con el botón **☰** de arriba a la izquierda y se cierra tocando afuera.
+- **Números en el menú:** al lado de *Postulaciones* y *Mensajes* indican lo que todavía no abriste.
+- **Ver sitio** (arriba a la derecha) abre la web en otra pestaña. **Salir** es el ícono de la flecha, abajo del menú, al lado de tu nombre.
 
 ## Bueno saber
 

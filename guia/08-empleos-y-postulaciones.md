@@ -4,16 +4,16 @@
 
 ## Búsquedas abiertas
 
-**En el panel:** menú **Empleos**.
+**En el panel:** menú **Empleos**. Cada búsqueda es una tarjeta con su zona, si está abierta o cerrada y cuántas postulaciones tiene. **Nueva búsqueda** está arriba a la derecha y en la última tarjeta.
 
 ![Empleos](../img/empleos.jpg)
 
 | Campo | Qué va |
 |---|---|
 | **Puesto** | Ej: "Atención al público" |
-| **Zona / sucursal** | Dónde es el puesto |
+| **Zona o sucursal** | Dónde es el puesto |
 | **Detalle** | Tareas, requisitos, horario |
-| **Búsqueda abierta** | Tildada se muestra en el sitio; destildada queda cerrada |
+| **Búsqueda abierta** | Interruptor: prendido (verde) se muestra en el sitio; apagado queda cerrada |
 | **Orden** | Posición (menor primero) |
 
 ![Editar búsqueda](../img/empleo-editar.jpg)
@@ -31,7 +31,7 @@ Quien se postula puede marcar **varios puestos a la vez**: por ejemplo, Cajero/a
 
 ![Puestos en el formulario](../img/sitio-empleos-puestos.jpg)
 
-- **Cuántos puede marcar:** arriba de la lista de Empleos, en **"Quien se postula puede elegir hasta __ puestos"**. Viene en **3**; va de 1 a 10. Con **1**, elige un solo puesto, como antes.
+- **Cuántos puede marcar:** arriba de las búsquedas en Empleos, en el recuadro **"Puestos por postulación"**: subilo o bajalo con **−** y **+** y tocá **Guardar**. Viene en **3**; va de 1 a 10. Con **1**, elige un solo puesto, como antes.
 - **En el sitio,** el formulario dice "elegí hasta 3" (o el número que pongas). Al llegar al tope, los demás puestos quedan en gris hasta que desmarque alguno.
 - **El botón Postularme** de cada búsqueda deja ese puesto marcado en el formulario.
 
@@ -41,7 +41,7 @@ Quien se postula puede marcar **varios puestos a la vez**: por ejemplo, Cajero/a
 
 ![Postulaciones](../img/postulaciones.jpg)
 
-- **Filtrar por puesto:** los botones de arriba. Una postulación a varios puestos cuenta en cada uno: la de Cajero/a, Atención al público y Repositor/a aparece en esas tres pestañas. En Empleos, la columna **Postulaciones** cuenta igual.
+- **Filtrar por puesto:** los botones de arriba. Una postulación a varios puestos cuenta en cada uno: la de Cajero/a, Atención al público y Repositor/a aparece en esas tres pestañas. En Empleos, el número de postulaciones de cada tarjeta cuenta igual (tocalo para ver esas postulaciones).
 - **Ver:** abre el detalle, con nombre, mail, teléfono, puestos elegidos, experiencia, fecha y el CV. Al abrirla, se marca como leída.
 - **CV:** lo descarga directamente.
 - **Marcar como no leída:** para acordarte de volver a verla.
@@ -57,4 +57,4 @@ Quien se postula puede marcar **varios puestos a la vez**: por ejemplo, Cajero/a
 
 - **Dónde quedan los CV:** en un lugar **privado** del servidor. No se pueden abrir desde internet: solo se descargan desde el panel.
 - **Ley 25.326:** los CV son datos personales protegidos por la Ley de Protección de Datos Personales. Si alguien pide que borren sus datos, borrá su postulación.
-- **Borrado automático:** arriba de la lista de Postulaciones elegís cada cuántos meses se borran solas las postulaciones viejas, con su CV. Viene en **12 meses**, y **0** es no borrar nunca. Se hace sola una vez por día, la primera vez que alguien entra al panel. Al guardar un plazo nuevo, se borran en el momento las que ya lo superaron.
+- **Borrado automático:** arriba de la lista de Postulaciones, en el recuadro **Borrado automático**, elegís con **−** y **+** cada cuántos meses se borran solas las postulaciones viejas, con su CV. Viene en **12 meses**, y **0** es no borrar nunca. Se hace sola una vez por día, la primera vez que alguien entra al panel. Al guardar un plazo nuevo, se borran en el momento las que ya lo superaron.
