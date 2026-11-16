@@ -12,12 +12,14 @@ El panel está en **[boggianofiambrerias.com.ar/admin](https://boggianofiambreri
 
 | De arriba hacia abajo | Se cambia en |
 |---|---|
-| Botón verde **Consultar** del encabezado y botón flotante **¿Consultás? Escribinos** | El número, en [Datos del negocio](guia/02-datos-del-negocio.md); el mensaje, en [Textos → WhatsApp](guia/10-textos-e-imagenes.md#mensajes-de-whatsapp) |
+| **Franja fina de arriba**: nombre, un texto corto y la cantidad de sucursales (en el celular no se ve) | El texto, en [Datos del negocio](guia/02-datos-del-negocio.md) → Franja de arriba del sitio |
+| Botón bordó **Consultar** del encabezado y botón verde flotante **¿Consultás? Escribinos** | El número, en [Datos del negocio](guia/02-datos-del-negocio.md); el mensaje, en [Textos → WhatsApp](guia/10-textos-e-imagenes.md#mensajes-de-whatsapp) |
 | Cartel **"Abierto ahora · cierra a las 21"** | El horario por día de la primera sucursal, en [Sucursales](guia/06-sucursales.md) |
 | Portada: título, texto y la etiqueta sobre la foto | [Textos e imágenes](guia/10-textos-e-imagenes.md) → Inicio; la foto, en Imágenes |
-| Franja amarilla con los **3 sellos** | [Textos e imágenes](guia/10-textos-e-imagenes.md) → Inicio → Sellos |
+| Portada: **marcas** debajo de los botones | Los nombres, en [Marcas](guia/07-marcas.md) (las primeras 8); la etiqueta "Marcas que trabajamos", en [Textos e imágenes](guia/10-textos-e-imagenes.md) → Inicio |
+| Franja con los **3 sellos** | [Textos e imágenes](guia/10-textos-e-imagenes.md) → Inicio → Sellos |
 | **Fichas de categorías** (en el celular se deslizan de costado) | [Categorías](guia/05-categorias.md) |
-| **Los que más salen**: los primeros 4 destacados | [Productos](guia/03-productos.md), con la estrella ★ |
+| **Los que más salen**: los primeros 4 destacados, con su presentación al pie | [Productos](guia/03-productos.md), con la estrella ★ |
 | **Te esperamos**: la sucursal principal con mapa, horario de hoy, Cómo llegar y WhatsApp | La primera sucursal visible, en [Sucursales](guia/06-sucursales.md) |
 | **Por qué Boggiano** y **Marcas** | [Textos e imágenes](guia/10-textos-e-imagenes.md) y [Marcas](guia/07-marcas.md) |
 

@@ -38,7 +38,8 @@ Tocá **+ Nuevo producto** o **Editar**.
 | Campo | Para qué |
 |---|---|
 | **Nombre** | Obligatorio. Ej: "Jamón crudo" |
-| **Marca** | Opcional. Se muestra debajo del nombre y entra en el buscador |
+| **Marca** | Opcional. Se muestra arriba del nombre, a la derecha, y entra en el buscador |
+| **Presentación** | Opcional. Cómo se vende, en pocas palabras. Ej: "Pieza entera / Feteado" o "Horma entera / Al peso". Sale al pie de la tarjeta, al lado de **Consultar** |
 | **Ubicación** | Obligatoria. Una sola lista con todo: la categoría sola ("Quesos (sin subcategoría)"), una subcategoría ("Blandos") o un tipo ("Blandos › Cremoso"). Si falta una subcategoría o un tipo, se crea en [Categorías](05-categorias.md) |
 | **Foto** | JPG, PNG o WebP, de hasta 15 MB. **Se achica sola** para que el sitio cargue rápido. "Quitar la foto" la borra |
 | **Visible en el sitio** | Destildado, el producto no se ve, pero queda guardado |
@@ -58,7 +59,11 @@ Tocá **+ Nuevo producto** o **Editar**.
 | Destacado | **Los primeros 4** destacados, según el orden, salen en Inicio, en "Los que más salen", con la etiqueta roja *Destacado* |
 | Orden | El orden de las tarjetas en el catálogo y cuáles 4 destacados se ven en Inicio |
 
-**La tarjeta de cada producto** muestra la foto a todo el ancho, la **marca** arriba del nombre y, en gris, dónde está en el catálogo (categoría · subcategoría · tipo). **No tiene botón de WhatsApp propio:** para consultar se usa el botón verde del encabezado o el flotante.
+**La tarjeta de cada producto** muestra la foto a todo el ancho y, debajo:
+
+- **arriba:** la categoría en amarillo y, a la derecha, la **marca**;
+- **al medio:** el nombre y, en gris, la subcategoría y el tipo;
+- **al pie:** la **presentación** (si la cargaste) y **Consultar**. Consultar abre WhatsApp con el **mensaje general**, el mismo del botón del encabezado: no hay un mensaje por producto. En [Consultas por WhatsApp](14-consultas-por-whatsapp.md) queda anotado qué producto fue.
 
 | Así se ven los destacados en Inicio | Así se ven las categorías en Inicio |
 |---|---|

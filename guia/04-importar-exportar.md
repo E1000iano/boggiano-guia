@@ -15,6 +15,7 @@ Lo más fácil: tocá **Descargar plantilla vacía**, abrila en Excel y completa
 | `nombre` | Sí | Nombre del producto |
 | `categoria` | Sí | Una categoría que **ya exista** en el panel. Da igual si va con mayúsculas o acentos: "Quesos", "quesos" o "QUESOS" |
 | `marca` | No | Marca del producto |
+| `presentacion` | No | Cómo se vende, ej. "Pieza entera / Feteado". Sale al pie de la tarjeta. Si la columna no está en la planilla, la presentación que ya tenían los productos no se toca |
 | `subcategoria` | No | Si no existe dentro de esa categoría, **se crea sola** |
 | `tipo` | No | El tercer nivel, dentro de la subcategoría (ej. Quesos › Blandos › **Cremoso**). Si no existe, **se crea solo**. Necesita que la fila tenga `subcategoria`: si no, la fila marca error |
 | `destacado` | No | `si` / `no`. Vacío = no |

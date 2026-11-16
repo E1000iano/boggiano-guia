@@ -19,7 +19,7 @@
 
 | Pestaña | Qué textos tiene |
 |---|---|
-| **Inicio** | Título de la pestaña del navegador, descripción para Google, la portada (etiqueta, título, título en amarillo, texto y la **etiqueta sobre la foto**; escribí `-` para no mostrarla), los **3 sellos** de la franja amarilla, los títulos de las secciones (incluida la de la sucursal, "Te esperamos") y los 4 motivos de "Por qué Boggiano" |
+| **Inicio** | Título de la pestaña del navegador, descripción para Google, la portada (etiqueta, título, título resaltado en rojo, texto, la **etiqueta sobre la foto** —escribí `-` para no mostrarla— y la **etiqueta de las marcas**, "Marcas que trabajamos"), los **3 sellos** de la franja de abajo de la portada, los títulos de las secciones (incluida la de la sucursal, "Te esperamos") y los 4 motivos de "Por qué Boggiano" |
 | **Productos** | Descripción para Google y el encabezado (etiqueta, título y texto) |
 | **WhatsApp** | Los mensajes que quedan escritos al abrir el chat (ver abajo) |
 | **Sucursales** | Descripción para Google y el encabezado |

@@ -14,7 +14,7 @@
 
 ## Qué cambia en el sitio
 
-Las marcas aparecen en **Inicio**, en "Trabajamos con las mejores", y en la página **Marcas**:
+Las marcas aparecen en **Inicio** (en la portada, debajo de los botones, las primeras 8 en letras; y más abajo en "Trabajamos con las mejores") y en la página **Marcas**. Si la página Marcas está apagada en [Datos del negocio](02-datos-del-negocio.md), tampoco salen en la portada:
 
 - **Con logo:** se muestra el logo.
 - **Sin logo:** se muestra el nombre en letras.
