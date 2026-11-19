@@ -13,7 +13,7 @@ Cada vez que alguien toca un botón de WhatsApp del sitio, el panel lo anota. As
 - **Período:** se elige arriba entre los últimos 7, 30 o 90 días.
 - **Totales:** cuántas consultas hubo, separadas según de dónde salieron:
   - **Desde una sucursal:** el botón "WhatsApp" de cada sucursal (en Inicio y en Sucursales).
-  - **Botón general:** el "Consultar" del encabezado, el flotante, el del menú en el celular, el de la portada, el de Contacto y el del catálogo cuando una búsqueda no encuentra nada.
+  - **Botón general:** el "Consultar" del encabezado, el del menú en el celular, el de Contacto y el del catálogo cuando una búsqueda no encuentra nada.
   - **Desde un producto:** el "Consultar" al pie de cada tarjeta de producto. Abre el mensaje general de WhatsApp, pero acá queda anotado qué producto fue.
 - **Consultas por día:** pasá el mouse por una barra para ver el número de ese día.
 - **Sucursales y productos más consultados**, y **desde qué página** llegaron.

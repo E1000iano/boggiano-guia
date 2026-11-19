@@ -13,7 +13,7 @@ El panel está en **[boggianofiambrerias.com.ar/admin](https://boggianofiambreri
 | De arriba hacia abajo | Se cambia en |
 |---|---|
 | **Franja fina de arriba**: nombre, un texto corto y la cantidad de sucursales (en el celular no se ve) | El texto, en [Datos del negocio](guia/02-datos-del-negocio.md) → Franja de arriba del sitio |
-| Botón bordó **Consultar** del encabezado y botón verde flotante **¿Consultás? Escribinos** | El número, en [Datos del negocio](guia/02-datos-del-negocio.md); el mensaje, en [Textos → WhatsApp](guia/10-textos-e-imagenes.md#mensajes-de-whatsapp) |
+| Botón bordó **Consultar** del encabezado | El número, en [Datos del negocio](guia/02-datos-del-negocio.md); el mensaje, en [Textos → WhatsApp](guia/10-textos-e-imagenes.md#mensajes-de-whatsapp) |
 | Cartel **"Abierto ahora · cierra a las 21"** | El horario por día de la primera sucursal, en [Sucursales](guia/06-sucursales.md) |
 | Portada: título, texto y la etiqueta sobre la foto | [Textos e imágenes](guia/10-textos-e-imagenes.md) → Inicio; la foto, en Imágenes |
 | Portada: **marcas** debajo de los botones | Los nombres, en [Marcas](guia/07-marcas.md) (las primeras 8); la etiqueta "Marcas que trabajamos", en [Textos e imágenes](guia/10-textos-e-imagenes.md) → Inicio |
@@ -28,7 +28,7 @@ El panel está en **[boggianofiambrerias.com.ar/admin](https://boggianofiambreri
 Hoy el sitio está publicado pero con **datos de ejemplo**. En este orden:
 
 **Urgente**
-- [ ] **WhatsApp general real.** Mientras diga `5490000000000`, los botones generales (Consultar del encabezado, el flotante, el de la portada y el de Contacto) llevan a un número que no existe. Los de cada sucursal ya van al WhatsApp de esa sucursal. → [Datos del negocio](guia/02-datos-del-negocio.md)
+- [ ] **WhatsApp general real.** Mientras diga `5490000000000`, los botones generales (Consultar del encabezado, el del menú del celular, el del pie y el de Contacto) llevan a un número que no existe. Los de cada sucursal ya van al WhatsApp de esa sucursal. → [Datos del negocio](guia/02-datos-del-negocio.md)
 - [ ] **Teléfono, Instagram y Facebook.** El pie de página todavía muestra "(000) 000-0000". → [Datos del negocio](guia/02-datos-del-negocio.md)
 - [ ] **Casillas de correo:** `ventas@` (con la contraseña que tiene cargada el sitio) y el alias `empleos@`. Sin ellas, los avisos de mensajes y CV no salen. → [Correo](guia/12-correo.md)
 

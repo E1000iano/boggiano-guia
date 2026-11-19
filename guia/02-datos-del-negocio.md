@@ -13,7 +13,7 @@
 | **Nombre del negocio** | Boggiano Fiambrerías | Título de la pestaña del navegador, pie de página, textos del formulario de empleo y avisos por mail |
 | **Frase corta** | Una línea | Debajo del logo, en el pie de página |
 | **Franja de arriba del sitio** | Una línea corta. Ej: "Fiambres, quesos y almacén seleccionados, cortados al momento" | La franja fina que va arriba del encabezado, después del nombre. A la derecha muestra sola la cantidad de sucursales. **En el celular no se ve.** Si la dejás vacía, la franja no aparece |
-| **WhatsApp** | Con código de país y área, **sin 0 ni 15**. Ej: `5493411234567`. Si ponés espacios o guiones, se sacan solos | Los botones generales de WhatsApp: "Consultar" del encabezado, el botón verde flotante, el del menú en el celular y "Consultar por WhatsApp" de Inicio y Contacto. Los de cada sucursal usan el WhatsApp de esa sucursal, si lo tiene cargado |
+| **WhatsApp** | Con código de país y área, **sin 0 ni 15**. Ej: `5493411234567`. Si ponés espacios o guiones, se sacan solos | Los botones generales de WhatsApp: "Consultar" del encabezado, el del menú en el celular, el ícono del pie y el de Contacto. Los de cada sucursal usan el WhatsApp de esa sucursal, si lo tiene cargado |
 | **Teléfono** | Como querés que se lea. Ej: `(0341) 456-7890` | Pie de página y página Contacto. En el celular se puede tocar para llamar |
 | **Email público** | El que ven los clientes | Pie de página y página Contacto |
 | **Email que recibe los mensajes** | Normalmente `ventas@` | A esta casilla llegan los avisos de **Contacto**, **Franquicias** y **Proveedores** |

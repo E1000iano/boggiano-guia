@@ -41,10 +41,10 @@ La pestaña **WhatsApp** tiene lo que queda escrito en el chat cuando alguien to
 
 | Campo | De qué botón | Mensaje original |
 |---|---|---|
-| **General** | Consultar del encabezado, el de la portada y el de Contacto | "Hola! Quería hacer una consulta." |
+| **General** | Consultar del encabezado y el de Contacto | "Hola! Quería hacer una consulta." |
 | **Sucursal** | El botón WhatsApp de cada sucursal | "Hola! Quería consultar por la sucursal {sucursal}." |
 | **Búsqueda** | El del catálogo cuando una búsqueda no encuentra nada | "Hola! Quería consultar por {busqueda}." |
-| **Flotante** | El botón flotante, el del menú del celular y el ícono del pie | Ninguno: abre el chat vacío |
+| **Flotante** | El del menú del celular y el ícono del pie (ya no hay botón flotante) | Ninguno: abre el chat vacío |
 
 - **Las marcas entre llaves se completan solas:** `{sucursal}` con el nombre de la sucursal y `{busqueda}` con lo que buscaron. Si la sacás, el mensaje sale igual, sin ese dato.
 - **Si dejás un campo vacío,** vuelve el mensaje original.
