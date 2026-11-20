@@ -6,11 +6,20 @@
 
 ![Usuarios](../img/usuarios.jpg)
 
-Todos los usuarios pueden hacer todo en el panel. No hay permisos distintos.
+## Roles: Administrador y Soporte
+
+Cada usuario tiene un rol, que se ve en la columna **Rol**:
+
+- **Administrador**: carga y cambia todo lo del negocio, como productos, sucursales, búsquedas, postulaciones, mensajes y textos.
+- **Soporte**: es quien mantiene el sitio. Además de todo lo anterior, decide qué secciones del panel están habilitadas. Las secciones nuevas aparecen recién cuando soporte las habilita.
+
+Si buscás una sección que no aparece en el menú, pedísela a soporte. Que una sección esté apagada no borra nada de lo que tenga cargado.
+
+Un administrador no puede borrar a un usuario de soporte ni cambiar roles.
 
 ## Crear un usuario
 
-Completá **Nombre**, **Email** y una **contraseña de al menos 10 caracteres**, dos veces, y tocá **Crear usuario**. El email es con lo que esa persona va a entrar: no tiene que ser una casilla del dominio, puede ser su Gmail.
+Completá **Nombre**, **Email** y una **contraseña de al menos 10 caracteres**, dos veces, y tocá **Crear usuario**. El email es con lo que esa persona va a entrar: no tiene que ser una casilla del dominio, puede ser su Gmail. Los usuarios nuevos se crean como **Administrador**.
 
 Pasale la contraseña por un medio seguro: en persona o por teléfono, no por un mensaje que quede guardado. Pedile que la cambie la primera vez que entre.
 
@@ -20,7 +29,7 @@ En **Cambiar mi contraseña**: la actual, la nueva dos veces, y **Cambiar contra
 
 ## Borrar un usuario
 
-Botón **Borrar** en su fila. La persona deja de poder entrar enseguida. No podés borrar tu propio usuario, y siempre tiene que quedar al menos uno.
+Botón **Borrar** en su fila. La persona deja de poder entrar enseguida. No podés borrar tu propio usuario ni a uno de soporte, y siempre tiene que quedar al menos uno.
 
 ## Si alguien se olvida la contraseña
 
