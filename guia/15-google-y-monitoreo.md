@@ -42,3 +42,7 @@ Un servicio gratuito que revisa el sitio cada 5 minutos y te manda un mail si de
 3. En **Alert Contacts**, tildá tu mail y guardá.
 
 Si te llega un aviso, mirá primero si el sitio abre desde el celular con los datos, sin wifi. Si no abre, revisá en hPanel si hay algún aviso de Hostinger, o escribile a su soporte (24/7).
+
+## La firma del pie
+
+En la franja de abajo del pie, al lado del aviso de Defensa del Consumidor, aparece **"Sitio hecho por FUSIA WEB"**, con un link a fusiaweb.com. Es fija: no se cambia desde el panel.
