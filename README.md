@@ -57,7 +57,7 @@ Hoy el sitio está publicado pero con **datos de ejemplo**. En este orden:
 | WhatsApp, teléfono, mails, redes | Datos del negocio | [02](guia/02-datos-del-negocio.md) |
 | Un producto, su foto o si es destacado | Productos | [03](guia/03-productos.md) |
 | Muchos productos a la vez | Importar / Exportar | [04](guia/04-importar-exportar.md) |
-| Muchas fotos a la vez | Productos → Fotos en lote | [03](guia/03-productos.md#subir-muchas-fotos-juntas-fotos-en-lote) |
+| Muchas fotos a la vez | Fotos de productos | [03](guia/03-productos.md#subir-muchas-fotos-juntas-fotos-en-lote) |
 | Las categorías o el menú "Productos" (agregar, ocultar, borrar) | Categorías | [05](guia/05-categorias.md) |
 | Direcciones, horario por día ("Abierto ahora"), mapas y el WhatsApp de cada sucursal | Sucursales | [06](guia/06-sucursales.md) |
 | Qué sucursal sale destacada en Inicio | Sucursales: la primera visible (orden más bajo) | [06](guia/06-sucursales.md) |
@@ -70,6 +70,7 @@ Hoy el sitio está publicado pero con **datos de ejemplo**. En este orden:
 | Ver cuántas consultas llegan por WhatsApp | Consultas WhatsApp | [14](guia/14-consultas-por-whatsapp.md) |
 | Quién puede entrar al panel | Usuarios | [11](guia/11-usuarios.md) |
 | Una sección que no aparece en el menú | La habilita soporte | [11](guia/11-usuarios.md#roles-administrador-y-soporte) |
+| Qué puede hacer cada usuario (por ejemplo, sólo textos e imágenes) | Lo elige soporte, en Usuarios | [11](guia/11-usuarios.md#qué-puede-hacer-cada-usuario) |
 | Leer los mails de las casillas | Webmail o Gmail | [12](guia/12-correo.md) |
 | Ver quién cambió algo, o deshacer un cambio | Historial | [16](guia/16-historial.md) |
 | Respaldos y qué no tocar | — | [13](guia/13-mantenimiento.md) |
