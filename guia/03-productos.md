@@ -71,7 +71,7 @@ Tocá **+ Nuevo producto** o **Editar**.
 
 ## Subir muchas fotos juntas (Fotos en lote)
 
-**En el panel:** menú **Fotos de productos** (también desde **Productos → Fotos en lote**). Es una sección aparte: alguien puede tener permiso para subir fotos sin poder editar ni borrar productos (ver [Usuarios](11-usuarios.md#qué-puede-hacer-cada-usuario)).
+**En el panel:** menú **Fotos de productos** (también desde **Productos → Fotos en lote**). Es una sección aparte: alguien puede tener permiso para subir fotos sin poder editar ni borrar productos (ver [Usuarios](11-usuarios.md#tipos-de-usuario)).
 
 1. **Nombrá cada foto como el producto.** `jamon-crudo.jpg` va a "Jamón crudo", y `Salame Milán.png` va a "Salame Milán". No importan las mayúsculas, los acentos ni si usás espacios o guiones.
 2. **Si hay dos productos con el mismo nombre** (por ejemplo, dos quesos azules de marcas distintas), agregá la marca: `queso-azul-la-paulina.jpg`.

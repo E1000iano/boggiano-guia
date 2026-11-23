@@ -69,8 +69,8 @@ Hoy el sitio está publicado pero con **datos de ejemplo**. En este orden:
 | Lo que queda escrito al abrir WhatsApp | Textos e imágenes → WhatsApp | [10](guia/10-textos-e-imagenes.md#mensajes-de-whatsapp) |
 | Ver cuántas consultas llegan por WhatsApp | Consultas WhatsApp | [14](guia/14-consultas-por-whatsapp.md) |
 | Quién puede entrar al panel | Usuarios | [11](guia/11-usuarios.md) |
-| Una sección que no aparece en el menú | La habilita soporte | [11](guia/11-usuarios.md#roles-administrador-y-soporte) |
-| Qué puede hacer cada usuario (por ejemplo, sólo textos e imágenes) | Usuarios → Permisos | [11](guia/11-usuarios.md#qué-puede-hacer-cada-usuario) |
+| Una sección que no aparece en el menú | La habilita soporte | [11](guia/11-usuarios.md#tipos-de-usuario) |
+| Crear un empleado que sólo haga algunas cosas (por ejemplo, textos e imágenes) | Usuarios → Tipo: Empleado | [11](guia/11-usuarios.md#tipos-de-usuario) |
 | Leer los mails de las casillas | Webmail o Gmail | [12](guia/12-correo.md) |
 | Ver quién cambió algo, o deshacer un cambio | Historial | [16](guia/16-historial.md) |
 | Respaldos y qué no tocar | — | [13](guia/13-mantenimiento.md) |
